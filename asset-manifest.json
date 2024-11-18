@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rubikon/static/css/main.d8f5e7ed.css",
+    "main.js": "/Rubikon/static/js/main.8aae7b79.js",
+    "index.html": "/Rubikon/index.html",
+    "main.d8f5e7ed.css.map": "/Rubikon/static/css/main.d8f5e7ed.css.map",
+    "main.8aae7b79.js.map": "/Rubikon/static/js/main.8aae7b79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f5e7ed.css",
+    "static/js/main.8aae7b79.js"
+  ]
+}
